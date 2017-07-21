@@ -1,4 +1,4 @@
-package com.heapdev.graph;
+package BreadthFirstSearchGraph;
 
 import java.util.LinkedList;
 import java.util.Queue;

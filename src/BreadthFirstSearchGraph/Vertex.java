@@ -1,4 +1,4 @@
-package com.heapdev.graph;
+package BreadthFirstSearchGraph;
 
 import java.util.ArrayList;
 import java.util.List;

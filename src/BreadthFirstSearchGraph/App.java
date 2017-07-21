@@ -1,4 +1,4 @@
-package com.heapdev.graph;
+package BreadthFirstSearchGraph;
 
 public class App {
 	
